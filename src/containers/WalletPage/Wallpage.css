@@ -1,0 +1,172 @@
+html {
+  font-family: "Open Sans" !important;
+}
+
+body {
+  font-family: "Open Sans" !important;
+}
+
+p {
+  font-size: 15px !important;
+  width: 100% !important;
+}
+
+.Head {
+  margin: 5px 0px 2px 100px !important;
+  padding-bottom: 10px !important;
+}
+
+.h5 {
+  font-weight: 300 !important;
+  margin: 5px 0px 0px 100px !important;
+  font-weight: 600 !important;
+  font-size: 30px !important;
+  color: #4a4a4a;
+}
+
+.para {
+  line-height: 5px;
+  background-image: url("ill-accounts.png");
+  background-repeat: round;
+  padding: 47px 18px;
+  max-width: 35%;
+  max-height: 5%;
+  margin-left: 100px !important;
+}
+
+.hp1 {
+  color: white;
+  font-size: 17px !important;
+}
+
+.hp2 {
+  font-weight: bold;
+  font-size: 25px !important;
+  padding: 25px 0px 0px 20px;
+}
+
+.cardInfo1 {
+  margin: 0px 10px 0px 100px !important;
+  display: block;
+  width: 280px;
+  height: 480px;
+  border-radius: 10px;
+  float: left;
+  font-size: small;
+  background: pink;
+}
+
+.cardInfo2 {
+  margin: 0px 10px 0px 0px !important;
+  display: block;
+  width: 280px;
+  height: 480px;
+  border-radius: 10px;
+  float: left;
+  font-size: small;
+  margin-left: 5px;
+  background: white;
+}
+
+.cardInfo3 {
+  margin: 0px 10px 0px 0px !important;
+  display: block;
+  width: 280px;
+  height: 480px;
+  border-radius: 10px;
+  float: left;
+  font-size: small;
+  margin-left: 5px;
+  background-color: white;
+}
+
+.cp1 {
+  font-weight: bold;
+  font-size: 18px !important;
+  padding-left: 5px;
+  margin: 0px 0px 5px 0px !important;
+}
+
+.cp2 {
+  color: #2d8259;
+  font-weight: bold;
+  padding-left: 7px;
+  margin: 0px 0px 20px 0px !important;
+  color: 23;
+}
+.cp3 {
+  font-size: smaller;
+  margin: 0px 0px 10px 2px !important;
+  padding-left: 7px;
+}
+
+.cp4v1 {
+  font-size: 25px !important;
+  margin-bottom: 5px;
+  padding-left: 7px;
+  font-weight: 600;
+  font-family: "Vollkorn";
+  line-height: normal;
+  letter-spacing: normal;
+  color: #4a4a4a;
+}
+
+.cp5 {
+  font-size: smaller;
+  margin: 20px 0px 10px 0px !important;
+  padding-left: 7px;
+}
+
+.cp6v2 {
+  font-size: 25px !important;
+  margin-bottom: 40px;
+  padding-left: 7px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  line-height: normal;
+  letter-spacing: normal;
+  color: #4a4a4a;
+}
+
+.button {
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  letter-spacing: 2px;
+  text-align: center !important;
+  width: 100% !important;
+  height: 50px !important;
+  border-radius: 0px 0px 10px 10px;
+  background-color: #2d8259 !important;
+  margin: 15px 0px 0px 0px !important;
+}
+
+#myImg {
+  height: 150px !important;
+  width: 100% !important;
+  padding: 0px !important;
+  margin: 20px 0px 10px 0px !important;
+}
+
+#myImg1 {
+  height: 150px !important;
+  width: 100% !important;
+  padding: 0px !important;
+  margin: 20px 0px 10px 0px !important;
+}
+
+#myImg2 {
+  height: 150px !important;
+  width: 100% !important;
+  padding: 0px !important;
+  margin: 20px 0px 10px 0px !important;
+}
+
+.Link1 {
+  margin-left: 150px !important;
+}
+.Link2 {
+  margin-left: 165px !important;
+}
+.Link3 {
+  margin-left: 165px !important;
+}

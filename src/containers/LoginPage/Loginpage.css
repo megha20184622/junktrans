@@ -1,0 +1,231 @@
+.lp-title-style {
+  color: rgb(21, 122, 26);
+  font-weight: bolder;
+  font-size: 50px;
+  margin-left: 10px;
+  /* padding-top: 50px; */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.lp-subtitle-style {
+  color: rgb(161, 204, 92);
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bolder;
+  padding-left: 50px;
+  position: relative;
+  /* left: -100px; */
+  top: -39px;
+}
+
+.lp-text-center {
+  background-color: white;
+  color: white;
+}
+
+.lp-login-wallet-img {
+  width: 37%;
+  float: left;
+  padding: 30px 40px;
+  border: none;
+}
+
+.lp-header-style {
+  font-size: 30px;
+  margin-top: 15px;
+  font-weight: 600;
+}
+
+.lp-form-signin {
+  margin: 15px 140px;
+  /* margin: 15px 140px; */
+  padding-top: 20px;
+  background-color: rgb(37, 97, 47);
+  text-align: center;
+  width: 380px;
+  height: auto;
+  float: right;
+  box-sizing: border-box;
+  border-radius: 10%;
+  font-family: "Courier New", Courier, monospace;
+  padding-bottom: none;
+}
+
+.lp-button1 {
+  float: left;
+  padding-left: 60px;
+}
+
+.lp-button2 {
+  margin-bottom: 10px;
+  padding-right: 0px;
+}
+
+.lp-button1 span {
+  padding-left: 5px;
+}
+
+.lp-button2 span {
+  padding-left: 5px;
+}
+
+.lp-login-form-control-username {
+  width: 260px;
+  height: 50px;
+  padding-top: 15px;
+  padding-left: 35px;
+  padding-bottom: 15px;
+  position: relative;
+  top: -25px;
+  border: 2px solid lightskyblue;
+  background-color: silver;
+}
+
+.lp-login-form-control-password {
+  width: 260px;
+  height: 50px;
+  position: relative;
+  top: -25px;
+  padding-top: 15px;
+  padding-left: 35px;
+  margin-bottom: 5px;
+  padding-bottom: 15px;
+  border: 2px solid lightskyblue;
+  background-color: silver;
+}
+
+/* .lp-login-form-control {
+  width: 260px;
+  height: 50px;
+  padding-top: 15px;
+  padding-left: 35px;
+  padding-bottom: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid lightskyblue;
+  background-color: silver;
+} */
+
+.user-icon {
+  color: rgba(0, 0, 0, 0.418);
+  position: relative;
+  top: -65px;
+  left: 65px;
+  height: 5%;
+  width: 25px;
+}
+
+.lock-icon {
+  color: rgba(0, 0, 0, 0.418);
+  position: relative;
+  top: -70px;
+  left: 65px;
+  height: 5%;
+  width: 25px;
+}
+
+.lock-icon-cp {
+  color: rgba(0, 0, 0, 0.418);
+  position: relative;
+  top: -50px;
+  left: 35px;
+  height: 5%;
+  width: 25px;
+}
+
+.lp-login-button-signin {
+  width: 160px;
+  padding: 15px 15px;
+  background-color: rgb(161, 204, 92);
+  position: relative;
+  top: -55px;
+  border: none;
+  color: white;
+  padding-bottom: none;
+  margin: 10px;
+  border-radius: 5%;
+}
+
+/* .lp-login-button-pass {
+  width: 260px;
+  padding: 15px 15px;
+  background-color: brown;
+  position: relative;
+  top: -35px;
+  border: none;
+  color: white;
+  margin-top: 10px;
+}
+
+.lp-login-button-user {
+  width: 260px;
+  padding: 15px 15px;
+  background-color: brown;
+  position: relative;
+  top: -35px;
+  border: none;
+  color: white;
+  margin-top: 10px;
+} */
+
+.lp-success-message {
+  width: 300px;
+  position: relative;
+  top: -50px;
+  color: green;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  padding: 3px 55px;
+  background-color: aliceblue;
+}
+
+.lp-error-message {
+  color: red;
+  font-weight: bold;
+  background-color: white;
+  font-size: 15px;
+  text-align: center;
+  width: 260px !important;
+}
+
+.lp-link-style-fp {
+  color: white;
+  top: -35px;
+  position: relative;
+  font-size: 12px;
+
+  font-family: "Courier New", Courier, monospace;
+}
+
+.lp-link-style-fp:hover {
+  cursor: pointer;
+  color: white;
+}
+
+.lp-link-style-fu {
+  color: white;
+  top: -25px;
+  position: relative;
+  margin-bottom: 0px;
+  font-size: 12px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.lp-link-style-fu:hover {
+  cursor: pointer;
+  color: white;
+}
+
+.lp-checkbox {
+  position: relative;
+  top: -35px;
+  left: -20px;
+  float: left;
+  margin-left: 80px;
+}
+
+.cb-msg {
+  position: relative;
+  left: -100px;
+  top: -39px;
+}
